@@ -1,3 +1,7 @@
+## Required to work
+
+1. firebase config file (not publically available. contact dev team for info)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
